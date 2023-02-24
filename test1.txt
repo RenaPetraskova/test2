@@ -1,4 +1,8 @@
 ahoj ll
 hello there
 We are here again
+<<<<<<< HEAD
 Ahoj 4
+=======
+ahoj zase
+>>>>>>> nova_vetev
